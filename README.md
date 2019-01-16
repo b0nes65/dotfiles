@@ -1,5 +1,1 @@
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
+Just a coolection of my dot files
