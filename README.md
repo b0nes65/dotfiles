@@ -1,1 +1,1 @@
-Just a coolection of my dot files
+Just a collection of my dot files
